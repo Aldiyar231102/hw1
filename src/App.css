@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: #006561;
+  width: 700px;
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 15px;
+}
+
+h1{
+  color: white;
+}

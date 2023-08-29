@@ -1,0 +1,13 @@
+.result-text{
+    color: white;
+    font-size: 20px;
+}
+
+.copy-button{
+    height: 30px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    background-color: #009B95;
+}

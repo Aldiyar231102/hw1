@@ -1,0 +1,14 @@
+.input-field{
+    border-radius: 10px 0px 0px 10px;
+    border: none;
+    height: 30px;
+}
+
+.input-button{
+    height: 32px;
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    background-color: #009B95;
+    color: white;
+    font-weight: 700;
+}
